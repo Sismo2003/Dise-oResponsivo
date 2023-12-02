@@ -1,4 +1,4 @@
-# ResponsiveDesing
+# Responsive Desing
 
 Hace unos momentos di de casualidad a una 
 pagina de hbo y al analizar el codigo que me arrojo cuando le di
